@@ -1,0 +1,6 @@
+__pycache__/
+build/
+tree-sitter/
+tree-sitter-typescript/
+tray.py
+.venv/
